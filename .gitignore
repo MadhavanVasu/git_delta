@@ -22,3 +22,21 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+.classpath
+.factorypath
+.project
+.idea/
+.vscode/
+
+.gradle/
+.settings/
+bin/
+build/
+out/
+?/
+target/
+
+/docker-compose.env
+/HELP.md
+src/main/resources/config/newrelic.yml
+src/main/resources/config/.DS_Store
